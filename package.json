@@ -1,5 +1,6 @@
 {
   "name": "element-plus-vite-starter",
+  "module": "esnext",
   "private": true,
   "version": "0.1.0",
   "scripts": {
@@ -11,7 +12,8 @@
   },
   "dependencies": {
     "element-plus": "^2.2.13",
-    "vue": "^3.2.36"
+    "vue": "^3.2.36",
+    "vue-router": "^4.0.13"
   },
   "devDependencies": {
     "@iconify-json/ep": "^1.1.4",
