@@ -15,7 +15,7 @@ import { getCurrentInstance } from "vue";
 import BaseHeader from "./BaseHeader.vue";
 import BaseSide from "./BaseSide.vue";
 const instance = getCurrentInstance();
-console.log("instance", instance);
+// console.log("instance", instance);
 </script>
 
 <style lang="scss" scoped>
